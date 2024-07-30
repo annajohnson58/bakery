@@ -1,0 +1,35 @@
+.cart-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.cart-table {
+    width:790px;
+    border-collapse: collapse;
+}
+
+.cart-table th, .cart-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.cart-table th {
+    background-color: #f2f2f2;
+}
+
+.cart-summary {
+    margin-top: 20px;
+}
+
+.checkout-button {
+    background-color: #8D493A; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.checkout-button:hover {
+    background-color: #8D493A;
+}
