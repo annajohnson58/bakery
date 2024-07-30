@@ -1,0 +1,35 @@
+.product-details {
+    padding: 20px;
+    text-align: center;
+}
+
+.product-details img {
+    width: 300px;
+    height: auto;
+}
+
+.add-to-cart-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.add-to-cart-button:hover {
+    background-color: #45a049;
+}
+
+.rating {
+    margin: 20px 0;
+}
+
+.star {
+    font-size: 20px;
+    color: lightgray; /* Default star color */
+}
+
+.star.filled {
+    color: gold; /* Color for filled stars */
+}
